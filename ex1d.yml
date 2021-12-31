@@ -1,0 +1,2 @@
+---
+{'rtr1': {'device_type': 'cisco_ios', 'host': 'cisco.lasthop.io', 'password': 'somepass', 'use_session_log': False, 'username': 'pyclass'}}
